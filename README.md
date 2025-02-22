@@ -76,7 +76,7 @@ Ensure you have the following installed:
 
 
 
-## 👨‍💻 Contributors
+## 👨‍💻 Contributor
 - [@vaishnavijha](https://github.com/vaishnavigithub899)
 
 ## 💬 Feedback
